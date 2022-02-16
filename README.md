@@ -11,4 +11,4 @@ Open your browser at http://localhost:3000 to view the chat.
 
 ---
 
-<img src="https://github.com/TiagoHucs/ChatWebSocket/blob/master/chat.PNG" width="30%"/>
+<img src="https://github.com/TiagoHucs/ChatWebSocket/blob/master/chat.PNG" width="100%"/>
